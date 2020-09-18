@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     Hey, ich bin Til Wegener 👋 <br>
-    🏫 21 Jahre alt und bin in einer Ausbildung zum Fachinformatiker für Anwendungsentwicklung <br>
+    🏫 21 Jahre alt und befinde mich derzeit in Ausbildung (Fachinformatiker für Anwendungsentwicklung) <br>
     :sparkles: Programmiersprachen: PHP, JSS, CSS, Python ... <br>
     :notebook: Ich arbeite derzeit an meinem Abschlussprojekt.  <br>
     :email:	kontakt@tilwegener.de <br>
