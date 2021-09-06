@@ -5,7 +5,7 @@
   <img align="center" src="https://raw.githubusercontent.com/tilwegener/tilwegener/master/wave.gif"/> <br>
   <samp>
     Hey, ich bin Til Wegener 👋 <br>
-    🏫 22 Jahre alt und befinde mich derzeit in Ausbildung (Fachinformatiker für Anwendungsentwicklung) <br>
+    🏫 22 Jahre alt / Fachinformatiker für Anwendungsentwicklung <br>
     :sparkles: Programmiersprachen: PHP, JS, CSS, Python ... <br>
     :notebook: Ich arbeite derzeit an meinem Abschlussprojekt.  <br>
     :email:	kontakt@tilwegener.de <br>
