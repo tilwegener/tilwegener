@@ -7,7 +7,7 @@
     Hey, ich bin Til Wegener 👋 <br>
     🏫 22 Jahre alt / Fachinformatiker für Anwendungsentwicklung <br>
     :sparkles: Programmiersprachen: PHP, JS, CSS, Python ... <br>
-    :notebook: Gründer und Geschäftsführer von Consory.  <br>
+    :notebook: Gründer und Geschäftsführer der Consory GmbH <br>
     :email:	kontakt@tilwegener.de <br>
     :art: Portfolio: https://tilwegener.de <br>
     :briefcase: LinkedIn: https://linkedin.com/in/tilwegener <br>
