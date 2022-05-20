@@ -1,6 +1,3 @@
-
-<!--<img src="https://raw.githubusercontent.com/tilwegener/README/master/GitHub.png"/>
- <hr></hr>-->
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/tilwegener/tilwegener/master/wave.gif"/> <br>
   <samp>
