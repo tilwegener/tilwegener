@@ -11,4 +11,4 @@
   </samp>
 </p>
 
-<img src="https://raw.githubusercontent.com/tilwegener/tilwegener/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/tilwegener/tilwegener/refs/heads/output/github-contribution-grid-snake-dark.svg" />
