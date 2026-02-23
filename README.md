@@ -2,11 +2,9 @@
   <img align="center" src="https://raw.githubusercontent.com/tilwegener/tilwegener/master/wave.gif"/> <br>
   <samp>
     Hey, ich bin Til Wegener 👋 <br>
-    🏫 27 Jahre alt / Fachinformatiker für Anwendungsentwicklung <br>
-    :sparkles: Programmiersprachen: PHP, JS, CSS, Python ... <br>
-    :notebook: Gründer und Geschäftsführer der Consory GmbH <br>
-    :email:	kontakt@tilwegener.de <br>
-    :art: Portfolio: https://tilwegener.de <br>
+    🏫 Fachinformatiker für Anwendungsentwicklung <br>
+    :sparkles: Programmiersprachen: TypeScript, PHP, JS, CSS, Python ... <br>
+    :email:	hello@tilwegener.de <br>
     :briefcase: LinkedIn: https://linkedin.com/in/tilwegener <br>
   </samp>
 </p>
